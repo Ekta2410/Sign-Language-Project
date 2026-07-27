@@ -109,7 +109,7 @@ Confusion Matrix
  Installation
  
 Step 1: Clone the Repository
-git clone https://github.com/your-username/sign-language-recognition.git
+git clone https://github.com/Ekta2410/sign-language-project.git
 Step 2: Navigate to the Project Folder
 cd sign-language-recognition
 Step 3: Install Dependencies
